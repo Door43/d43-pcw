@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pcw:home|Door43 (pcw)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pcw|d43-pcw repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pcw/archive/master.zip|d43-pcw.zip]]
+
+**Recent Changes**
+{{changes>ns = pcw}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pcw|Ethnologue data]]
+
